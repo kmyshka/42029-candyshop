@@ -1,7 +1,7 @@
 # Личный проект «Кэндишоп» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ксения Павлюченко](https://up.htmlacademy.ru/javascript/15/user/42029).
-* Наставник: `Неизвестно`.
+* Наставник: [Никита Пиковец](https://github.com/nikadrenalin).
 
 ---
 
